@@ -8,7 +8,7 @@
  * @author Miguel
  */
 public class Persona {
-    int cedula;
+    int cedula ;
     String Nombre;
 
     public Persona(int cedula, String Nombre) {
